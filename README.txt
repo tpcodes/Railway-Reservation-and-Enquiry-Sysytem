@@ -1,4 +1,4 @@
-﻿************************************************ RDSO Summer Training Project : TUSHAR PANDEY *************************************************
+﻿******************* RDSO Summer Training Project : TUSHAR PANDEY ***************************
 
 DESCRIPTION: This is the Railway Reservation and Enquiry System. 
 
