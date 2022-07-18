@@ -1,0 +1,87 @@
+.navbar-nav .nav-link
+{
+    font-size: 18px;
+    /* font-weight: bold; */
+    /* margin-left:100px */
+}
+.input-group-text
+{
+    background-color: transparent;
+    border-right: transparent;
+   
+}
+.fa-solid,.modal-title
+{
+    color:#213d77;
+}
+.rotate90
+{
+    transform: translate(90deg);
+}
+.form-control1
+{
+    border-left: transparent;
+}
+.form-control:focus {
+    color: #212529;
+    background-color: #fff;
+    border-color: none;
+    outline: 0;
+    /* box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%); */
+    box-shadow: none;
+    
+}
+.search-btn
+{
+    color: white;
+    font-weight: bold;
+    background: #fb792b!important;
+    background-color:#fb792b ;
+}
+.search-btn:hover{
+    color: white;
+}
+.flip-btn
+{
+    background-color: aqua;
+    border-radius: 50%;
+    border: none;
+
+}
+div{
+    /* border: 1px solid black; */
+}
+.container-column
+{
+    position: relative;
+}
+.column-2
+{
+    /* vertical-align: middle; */
+    position:absolute;
+    top: 30%;
+    left: 30%;
+    
+    
+}
+.btn1
+{
+    box-shadow: 0 5px 11px 0rgb(0 0 0/18%),0 4px 15px 0 rgb(0 0 0/15%);
+}
+
+.card-reg
+{
+  border-radius: 50px;
+
+}
+
+
+ .nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border: none;
+    border-color:none;
+    border-bottom: 3px solid #fb792b !important;
+}
+
+
